@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @JCWoodworker
-- 👀 I’m interested in learning full stack developement.
-- 🌱 I’m currently learning HTML, CSS, and Javascript with Launch Academy in Boston, MA!
+- 👋 Hi, I’m James
+- 👀 I’m interested in starting a career in full stack development
+- 🌱 I recently graduated from Launch Academy in Boston, MA, where I learned HTML, CSS, and Javascript 
 - 💞️ I’m looking to collaborate on whatever will help me build my skills and knowledge 
-- 📫 How to reach me ... @RILocalWoodworks on IG, RILocalWoodworks on FB
+- 📫 How to reach me ... JC@RILocalWoodworks.com, linkedin.com/in/j-corey
+
+- I've gained valuable experience with Node, Express, React, PostgreSQL, Knex, Objection, Cypress, Jest, Axios, Cheerio, Git, GitHub, TDD, OOP, Agile, Peer Programming
 
 <!---
 JCWoodworker/JCWoodworker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
