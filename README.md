@@ -1,8 +1,9 @@
 - 👋 Hi, I’m James!
 - 👀 I LOVE web app development
 - 👔 Currently I'm working for Grubhub as an operations Engineer and I own a woodworking business specializing in exotic cutting boards
-- 🌱 I went to Launch Academy (full time bootcamp) in Boston back in 2021.  There I learned HTML, CSS, Javascript, React, Node, Express, ORMs, OOP, SQL, Postgres, Git & Github, peer programming, and MUCH more!
 - 🌱 I'm expanding my skills every day by building new apps and using new technologies
+- 🌱 My big personal project is a NestJS boilerplate backend that can be reused over and over again for my future web apps
+  - It includes a user feature with jwt access and refresh tokens, password and token encryption, and a password reset feature   
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... JC@RILocalWoodworks.com, linkedin.com/in/j-corey, 
 Bizlinks.netlify.com
