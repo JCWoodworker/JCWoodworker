@@ -11,7 +11,7 @@
     -  They can log in via Google and they'll be able to see the following:
       -  Products they own, care instructions, links to purchase more items, and a feature for saving links to their favorite recipes and videos with notes!
       -  The admin section allows a user with admin permission to see/add/delete products, edit their info, and link any product to a user after it's been sold
-- 📫 linkedin.com/in/j-corey
+- 📫 linkedin.com/in/james-corey
 
 
 <!---
