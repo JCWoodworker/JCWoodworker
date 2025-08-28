@@ -1,7 +1,7 @@
 # James Corey | Full-Stack Software Engineer
 
 <p align="left">
-  <a href="https://linkedin.com/in/james-corey" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="james-corey" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/james-corey" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="james-corey" height="30" width="30" /></a>
 </p>
 
 Hi, I’m James! 👋 I'm a passionate Full-Stack Software Engineer specializing in building modern, scalable, and user-centric web applications. My go-to stack is **React**, **Vite**, **Nest.JS**, and **PostgreSQL**, and I thrive on turning complex problems into elegant, efficient software solutions.
