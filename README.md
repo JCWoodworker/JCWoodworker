@@ -74,6 +74,6 @@ A unique platform that bridges the gap between my physical craftsmanship (woodwo
 I am currently open to new opportunities. If you're looking for a dedicated and proactive engineer to join your team, I'd love to chat.
 
 <p align="left">
-  <strong>Email:</strong> `your.email@example.com` <br>
+  <strong>Email:</strong> `JC@RILocalWoodworks.com` <br>
   <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/james-corey">linkedin.com/in/james-corey</a>
 </p>
